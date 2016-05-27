@@ -3,6 +3,7 @@
  **********************************************************************************************/
 /** Map relative paths to URLs. */
 const map: any = {
+  'iscroll': 'vendor/iscroll/build/iscroll.js'
 };
 
 /** User packages configuration. */
